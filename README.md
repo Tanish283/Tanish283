@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 -->
 
-🔭 Passionate for learning & exploring new Tech.
-🌱 I’m currently learning Competitive Programming
-👯 I’m looking to collaborate on ...
-📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/tanish-laddha-64060b16b/)
+🔭 Passionate for learning & exploring new Tech.<br>
+🌱 I’m currently learning Competitive Programming<br>
+👯 I’m looking to collaborate on ...<br>
+📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/tanish-laddha-64060b16b/)<br>
 
 
